@@ -1,1 +1,1 @@
-# nho-reader
+To host ionic platform browser for nho-reader
