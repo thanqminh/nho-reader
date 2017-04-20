@@ -3,9 +3,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>ionic2-tutorial-github</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+    <name>reader-ionic</name>
+    <description>An tool to assist Vietnamese people learning Nho characters.</description>
+    <author email="thanqminh@gmail.com" href="http://thanqminh.com/">Minh Than</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="http://ionic.local/*" />

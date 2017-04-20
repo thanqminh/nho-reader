@@ -24523,3 +24523,33 @@ ion-navbar.toolbar {
   -ms-user-select: text;
   user-select: text;
 }
+
+page-reading .more_info {
+  position: relative;
+}
+
+page-reading .more_info .title {
+  position: absolute;
+  top: 20px;
+  background: silver;
+  padding: 4px;
+  left: 0;
+  white-space: nowrap;
+}
+
+.padbot_200 {
+  padding-bottom: 200px;
+}
+
+.more_info {
+  position: relative;
+}
+
+.more_info .tooltip {
+  position: absolute;
+  background: silver;
+  padding: 4px;
+  left: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
