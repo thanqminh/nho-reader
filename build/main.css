@@ -24545,6 +24545,11 @@ page-reading .more_info .title {
   position: relative;
 }
 
+.more_info.hightlight {
+  font-weight: bold;
+  color: red;
+}
+
 .more_info .tooltip {
   position: absolute;
   background: silver;
@@ -24552,4 +24557,6 @@ page-reading .more_info .title {
   left: 0;
   white-space: nowrap;
   z-index: 1;
+  font-weight: normal;
+  color: black;
 }
