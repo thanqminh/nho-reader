@@ -11,6 +11,7 @@
     "slug": "thu-tam-ly-dich-on-nhu-dao-lang",
     "bitRate": "lossless",
     "format": "flac",
+    "translations": ["vn"],
     "availableLyricLocales": ["tw","cn","vi","py"]
   },
   {
