@@ -23,5 +23,11 @@
     "singer": "周华健",
     "slug": "ki-thuc-bat-tuong-tau-chu-hoa-kien",
     "availableLyricLocales": ["tw","cn","vi","py"]
+  },
+  {
+    "title": "花太香",
+    "singer": "任贤齐",
+    "slug": "hoa-thai-huong-nham-hien-te",
+    "availableLyricLocales": ["tw","cn","vi","py"]
   }
 ]
